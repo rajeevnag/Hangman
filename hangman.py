@@ -1,3 +1,4 @@
+#first python program
 def printWord(word,letters):
     endResult = ''
     for i in word.lower():
